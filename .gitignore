@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+tfvenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML / Data
+New Plant Diseases Dataset(Augmented)/
+train/
+valid/
+test/
+*.keras
+*.h5
+*.ckpt
+training_hist.json
+
+# OS
+.DS_Store
+Thumbs.db
